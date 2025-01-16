@@ -27,6 +27,7 @@ Client side: Create a windows form application for invoking the server side serv
   
 + Bước 4: Triển khai Client Side.
   - Tạo winform. Thiết kế UI
+    
     ![image](https://github.com/user-attachments/assets/03b38c47-abcf-423e-a8d7-077e391ba8b3)
     
 + Bước 5: Kết nối web serivce bằng cách add Service reference
