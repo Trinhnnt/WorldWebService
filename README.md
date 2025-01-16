@@ -35,12 +35,17 @@ Client side: Create a windows form application for invoking the server side serv
     
 3. Kết quả truy vấn.
    
-+ Get all countries from database.![image](https://github.com/user-attachments/assets/c1c4ec33-a14c-4ac8-9d3b-06e008fade24)
++ Get all countries from database.
+  ![image](https://github.com/user-attachments/assets/c1c4ec33-a14c-4ac8-9d3b-06e008fade24)
   
-+ Get country by country code.![image](https://github.com/user-attachments/assets/43ad6a1f-ac51-477b-aa97-ab8ffc8f7fbd)
++ Get country by country code.
+  ![image](https://github.com/user-attachments/assets/43ad6a1f-ac51-477b-aa97-ab8ffc8f7fbd)
   
-+ Get city by name.![image](https://github.com/user-attachments/assets/c872df15-0ba4-4e31-8e01-888c3b84f341)
++ Get city by name.
+  ![image](https://github.com/user-attachments/assets/c872df15-0ba4-4e31-8e01-888c3b84f341)
   
-+ Get all cities of a specific country.![image](https://github.com/user-attachments/assets/83cbfbf0-db61-4293-9314-90fe88811371)
++ Get all cities of a specific country.
+  ![image](https://github.com/user-attachments/assets/83cbfbf0-db61-4293-9314-90fe88811371)
   
-+ Get all contries of a continent.![image](https://github.com/user-attachments/assets/5fde48dd-395a-4d49-866b-43b525c7e0df)
++ Get all contries of a continent.
+  ![image](https://github.com/user-attachments/assets/5fde48dd-395a-4d49-866b-43b525c7e0df)
