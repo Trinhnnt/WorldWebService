@@ -43,6 +43,7 @@ Client side: Create a windows form application for invoking the server side serv
   ![image](https://github.com/user-attachments/assets/43ad6a1f-ac51-477b-aa97-ab8ffc8f7fbd)
   
 + Get city by name.
+
   ![image](https://github.com/user-attachments/assets/c872df15-0ba4-4e31-8e01-888c3b84f341)
   
 + Get all cities of a specific country.
